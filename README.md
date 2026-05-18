@@ -43,3 +43,4 @@ print(f"正在申请号码: {phone}")
 # 监听验证码
 code = bot.wait_for_code()
 print(f"收到 Telegram 验证码: {code}")
+。
